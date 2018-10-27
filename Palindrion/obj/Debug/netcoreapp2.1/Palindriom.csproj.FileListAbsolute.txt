@@ -1,0 +1,11 @@
+C:\Users\Samir\source\repos\Palindrion\Palindrion\bin\Debug\netcoreapp2.1\Palindriom.deps.json
+C:\Users\Samir\source\repos\Palindrion\Palindrion\bin\Debug\netcoreapp2.1\Palindriom.runtimeconfig.json
+C:\Users\Samir\source\repos\Palindrion\Palindrion\bin\Debug\netcoreapp2.1\Palindriom.runtimeconfig.dev.json
+C:\Users\Samir\source\repos\Palindrion\Palindrion\bin\Debug\netcoreapp2.1\Palindriom.dll
+C:\Users\Samir\source\repos\Palindrion\Palindrion\bin\Debug\netcoreapp2.1\Palindriom.pdb
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.csprojAssemblyReference.cache
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.csproj.CoreCompileInputs.cache
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.AssemblyInfoInputs.cache
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.AssemblyInfo.cs
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.dll
+C:\Users\Samir\source\repos\Palindrion\Palindrion\obj\Debug\netcoreapp2.1\Palindriom.pdb
